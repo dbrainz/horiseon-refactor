@@ -7,6 +7,8 @@ This is the refactored website.
 
 The original code is located at https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-08-2023-U-LOLC-ENTG/-/tree/main/01-HTML-Git-CSS/02-Challenge
 
+The refactored site is deployed at https://dbrainz.github.io/horiseon-refactor/
+
 
 ## Credits
 
