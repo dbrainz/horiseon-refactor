@@ -9,6 +9,7 @@ The original code is located at https://git.bootcampcontent.com/University-of-Mi
 
 The refactored site is deployed at https://dbrainz.github.io/horiseon-refactor/
 
+![Horiseon Website Picture](image.png)
 
 ## Credits
 
